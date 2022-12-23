@@ -7,7 +7,7 @@ import time
 import os
 import random
 from random import randint
-
+#this is my first bot
 client = discord.Client()
 bot = commands.Bot(command_prefix='!')
 token = bot_token
